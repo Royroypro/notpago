@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">not pago</string>
+    <string name="notification_listener_label">Capturador de Pagos (not pago)</string>
+</resources>

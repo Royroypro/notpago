@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+**/build/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# APK / AAB
+*.apk
+*.aab
+*.ap_
+
+# Keystore
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# Encrypted prefs backup (contiene claves en texto plano si se exporta)
+**/shared_prefs/notpago_prefs.xml
