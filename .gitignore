@@ -26,3 +26,7 @@ captures/
 
 # Encrypted prefs backup (contiene claves en texto plano si se exporta)
 **/shared_prefs/notpago_prefs.xml
+
+# Kotlin cache
+.kotlin/
+
